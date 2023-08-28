@@ -1,3 +1,4 @@
 data:
-  test: shop-default
   SECRET_KEY: jangwonyoung
+  test: shop-default
+  
